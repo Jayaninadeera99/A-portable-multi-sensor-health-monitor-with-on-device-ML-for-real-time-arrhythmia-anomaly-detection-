@@ -1,1 +1,2 @@
 # A-portable-multi-sensor-health-monitor-with-on-device-ML-for-real-time-arrhythmia-anomaly-detection-
+A portable, low-power health monitoring device that combines multiple biosensors (ECG/heart rate, SpO₂, temperature, motion) with an embedded machine learning model to detect arrhythmias and physiological anomalies in real time. Inference runs entirely on the microcontroller, so alerts are instant and work without a cloud connection. Vital data is sent securely over MQTT for remote monitoring and logging.
